@@ -1,0 +1,12 @@
+[
+  {
+    "_id": "mock-app-1",
+    "user": "default-user",
+    "title": "Full Stack React & Node Developer",
+    "company": "InnovateTech Labs",
+    "salary": "$110,000 - $135,000",
+    "stage": "Wishlist",
+    "notes": "Excited about their modern SaaS stack. 85% match percentage!",
+    "createdAt": "2026-05-30T13:15:57.757Z"
+  }
+]

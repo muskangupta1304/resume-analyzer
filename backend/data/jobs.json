@@ -1,0 +1,66 @@
+[
+  {
+    "_id": "mock-job-1",
+    "title": "Full Stack React & Node Developer",
+    "company": "InnovateTech Labs",
+    "location": "San Francisco, CA (Hybrid)",
+    "salary": "$110,000 - $135,000",
+    "description": "We are seeking a Full Stack Developer to build modern SaaS components. In this role, you will write responsive React architectures, integrate Tailwind CSS, and set up REST API interfaces using Express and MongoDB.",
+    "requirements": [
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Tailwind CSS",
+      "Git"
+    ]
+  },
+  {
+    "_id": "mock-job-2",
+    "title": "Senior Frontend Engineer (React/TypeScript)",
+    "company": "Apex Cloud Solutions",
+    "location": "Remote",
+    "salary": "$140,000 - $165,000",
+    "description": "Join our frontend team to build high-performance microservices. You will spearhead React application designs, optimize page speeds, migrate legacy modules to TypeScript, and collaborate with backend teams to integrate GraphQL APIs.",
+    "requirements": [
+      "React.js",
+      "TypeScript",
+      "GraphQL",
+      "Redux",
+      "Jest",
+      "CI/CD Pipelines"
+    ]
+  },
+  {
+    "_id": "mock-job-3",
+    "title": "Junior Web Specialist",
+    "company": "PixelForge Studio",
+    "location": "Boston, MA",
+    "salary": "$70,000 - $85,000",
+    "description": "PixelForge is looking for an enthusiastic developer to build client dashboards. You will work on layout design, write responsive CSS, construct frontend elements, and support data management schemas using SQL and MongoDB.",
+    "requirements": [
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "React.js",
+      "MongoDB",
+      "Git"
+    ]
+  },
+  {
+    "_id": "mock-job-4",
+    "title": "DevOps & Platform Infrastructure Architect",
+    "company": "SecureNet Systems",
+    "location": "Remote",
+    "salary": "$150,000 - $180,000",
+    "description": "We are looking for a DevOps Engineer to handle our AWS cloud platform scale. You will build automatic deployment templates, orchestrate container structures using Docker & Kubernetes, and write secure network protocols.",
+    "requirements": [
+      "Docker",
+      "Kubernetes",
+      "AWS (EC2/S3)",
+      "CI/CD Pipelines",
+      "Linux",
+      "Terraform"
+    ]
+  }
+]
